@@ -229,7 +229,7 @@ button:active {
     grid-row: 3 / 4;
     grid-column: 2 / 3;
     padding: 12px;
-    justify-content: center;
+    align-content: space-evenly;
   }
   main h2 {
     font-size: 16px;
