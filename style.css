@@ -73,7 +73,6 @@ header p {
   grid-column: 2 / 3;
   border-radius: 10px;
   background-image: url(https://res.cloudinary.com/dy45x7mjl/image/upload/v1718811461/landing%20page%20transporte/2289_dzc8qg.jpg);
-
   background-size: cover;
   background-position: center;
 }
@@ -230,7 +229,7 @@ button:active {
     grid-row: 3 / 4;
     grid-column: 2 / 3;
     padding: 12px;
-    align-items:center;
+    align-items: center;
   }
   main h2 {
     font-size: 16px;
