@@ -281,7 +281,7 @@ button:active {
     height: 100%;
     grid-column: 1 / 2;
     grid-row: 6 / 7;
-    padding: 5px;
+    padding: 10px;
   }
   main h2 {
     font-size: 16px;
